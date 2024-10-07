@@ -1,0 +1,19 @@
+.caja{
+   width: 95%;
+   height: 500px;
+   background-image: url(/img/portada.jpg);
+   
+
+background-size: 100% 100%;
+   align-items: center;
+   margin-top: 50px;
+}
+.maincaja{
+   display: flex;
+  justify-content: center;
+}
+
+.icono{
+content: url(/img/bolsa.png);
+
+}
